@@ -80,4 +80,7 @@
 - Use AWS Amplify or an S3-hosted static website to integrate the chatbot with a frontend.
 
 ## Upload Screenshots
-- Upload your implementation screenshots below:
+![S3 Bucket steup](https://github.com/user-attachments/assets/db21312a-cc2a-499d-9535-bb3b11e63bca)
+![Bedrock knowledge base stepup after synced](https://github.com/user-attachments/assets/c8af5ba5-e80d-4a89-b429-86d6675dc487)
+![Bot without Generative Ai](https://github.com/user-attachments/assets/0610910d-8fc4-44f8-8fe5-e22c73bf3e7a)
+![Bot with Generative Ai ](https://github.com/user-attachments/assets/478a1dd1-1a46-497c-a119-68fc024aaaee)
